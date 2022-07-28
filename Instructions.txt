@@ -1,0 +1,4 @@
+start java server and then run:
+- npm run dev: Runs the dev build
+- npm run build & npm run deploy: to create an executable
+
